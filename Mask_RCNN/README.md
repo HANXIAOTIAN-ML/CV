@@ -6,8 +6,8 @@ https://engineering.matterport.com/splash-of-color-instance-segmentation-with-ma
 
 pic_demo.py文件是对图片进行目标检测和分割。
 我还写了一个video_demo.py的文件，这个文件可以实现对摄像头的调用，当然你也可以稍作修改，使用它来处理你想要检测的视频。
-![Alt text](https://github.com/hxtuniverse/CV/blob/master/Mask_RCNN/detected.png)
-
+![Alt text](https://github.com/hxtuniverse/CV/blob/master/Mask_RCNN/detected.jpg)
+![Alt text](https://github.com/hxtuniverse/CV/blob/master/Mask_RCNN/detected2.jpg)
 预训练好的mask_rcnncoco.h5模型我上传到了百度云
 链接：https://pan.baidu.com/s/1SzAxMA-ZTOyTESMMJrPb_Q 
 提取码：boy7 
